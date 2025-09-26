@@ -1,2 +1,2 @@
 # UCI-Credit-Card-Risk-Report-and-Dashboard
-Interactive Power BI Credit Risk Dashboard using UCI dataset
+End-to-end Power BI project: credit risk analysis with data transformation, custom DAX risk scoring, executive summary, and business insights.
